@@ -3,7 +3,7 @@
 This is my **first** GitHub-Repo ever.
 I thought it would be nice to share and maybe someone got some improvements on it, which are highly appreciated, cause I'm not the jQuery/JS pro. :-)
 
-It's licensed under [GPL](http://www.gnu.org/licenses/gpl.html)
+It's licensed under [GNU/GPL](http://www.gnu.org/licenses/gpl-3.0)
 
 #####So in short#####
 This script will search for a elements with attribute `data-tools="accordion"` on it.

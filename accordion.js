@@ -1,5 +1,5 @@
 /*
- * simple pushStateAccordion | https://github.com/CanRau/pushStateAccordion | Published under GPL http://www.gnu.org/licenses/gpl-3.0 
+ * simple pushStateAccordion | https://github.com/CanRau/pushStateAccordion | Licensed under GNU/GPL v3 http://www.gnu.org/licenses/gpl-3.0 
  */
 $(window).on("popstate", function(e) {
     if( window.location.href.indexOf("?") >= 0 )
