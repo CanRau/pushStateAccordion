@@ -1,3 +1,6 @@
+## [unmaintained]
+#### there might be better alternatives ;-)
+
 #pushStateAccordion#
 
 This is my **first** GitHub-Repo ever.
